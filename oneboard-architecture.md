@@ -24,8 +24,7 @@ Dieses Dokument beschreibt die technischen Voraussetzungen und Integrationsoptio
 - Der Link kann direkt auf der Website des Kunden (z. B. Button oder Weiterleitung) hinterlegt werden (siehe Screenshot 1)
 - Keine zusätzliche Softwareinstallation auf Endkundenseite erforderlich
 
-
-Screenshot  1 - Onboardinglink
+[![Onboardinglink]([https://raw.githubusercontent.com/Codecademy/docs/main/media/codey.jpg](https://github.com/OneBoardGroup/Get-Started/blob/main/Onboardinglink.png?raw=true))](https://codecademy.com)
 
 ## 3. Compliance Cockpit (Interne Nutzung)
 
