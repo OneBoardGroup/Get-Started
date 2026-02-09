@@ -6,7 +6,7 @@ Dieses Dokument beschreibt die technischen Voraussetzungen und Integrationsoptio
 
 **Endgeräte**
 
-- Betriebssystem: Windows
+- Betriebssystem: Windows, Linux, MacOS, Docker
 - Freier Speicherplatz: mindestens 10 GB
 - Internetverbindung: stabil, Router muss ggf. Ports für Proxy freigeben
 
