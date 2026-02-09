@@ -1,4 +1,4 @@
-#Technische Anforderungen
+Technische Anforderungen
 
 Dieses Dokument beschreibt die technischen Voraussetzungen und Integrationsoptionen für die Nutzung der Oneboard-Plattform auf Kundenseite.
 
