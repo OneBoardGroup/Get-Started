@@ -6,7 +6,7 @@ This document describes the technical prerequisites and integration options for 
 
 **End Devices**
 
-- Operating system: Windows
+- Operating system: Windows, Linux, MacOS, Docker
     
 - Free storage space: at least 10 GB
     
