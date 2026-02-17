@@ -11,8 +11,13 @@ This document describes the technical prerequisites and integration options for 
 - Free storage space: at least 10 GB
     
 - Internet connection: stable; the router may need to open ports for proxy usage
-    
 
+**Model**
+
+- Simplest model: Local instance – no setup costs
+- Windows-hosted model: VDI instance with open ports (4869, and for email: 993, 465) – low setup costs
+- Linux-hosted model: Terraform and Docker for organization-wide unified installation or as-a-service – SaaS
+    
 **Browser**
 
 - Google Chrome – latest version
