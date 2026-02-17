@@ -10,6 +10,12 @@ Dieses Dokument beschreibt die technischen Voraussetzungen und Integrationsoptio
 - Freier Speicherplatz: mindestens 10 GB
 - Internetverbindung: stabil, Router muss ggf. Ports für Proxy freigeben
 
+**Modell**
+
+- Einfachstes Modell: Lokale Instanz - keine Einrichtungskosten
+- Windows Hosted Modell: VDI Instanz mit freigeschalteten Ports (4869, und für email: 993, 465) - geringe Einrichtungskosten
+- Linux Hosted Modell: Terraform and Docker for organization wide unified installation or as a Service - SaaS
+
 **Browser**
 
 - Google Chrome – neueste Version
