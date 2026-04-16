@@ -14,7 +14,7 @@ Dieses Dokument beschreibt die technischen Voraussetzungen und Integrationsoptio
 
 - Einfachstes Modell: Lokale Instanz - keine Einrichtungskosten
 - Windows Hosted Modell: VDI Instanz mit freigeschalteten Ports (4869, und für email: 993, 465) - geringe Einrichtungskosten
-- Linux Hosted Modell: Terraform and Docker for organization wide unified installation or as a Service - SaaS
+- Azure, GCP, AWS, ... Hosted Modell: Terraform and Docker for organization wide unified installation or as a Service - SaaS
 
 **Browser**
 
