@@ -30,8 +30,6 @@ Dieses Dokument beschreibt die technischen Voraussetzungen und Integrationsoptio
 - Der Link kann direkt auf der Website des Kunden (z. B. Button oder Weiterleitung) hinterlegt werden (siehe Screenshot)
 - Keine zusätzliche Softwareinstallation auf Endkundenseite erforderlich
 
-![Onboardinglink](https://github.com/OneBoardGroup/Get-Started/blob/main/Onboardinglink.png?raw=true)
-
 ## 3. Compliance Cockpit (Interne Nutzung)
 
 **Installation**
